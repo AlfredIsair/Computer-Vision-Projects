@@ -16,4 +16,4 @@ This collection highlights my skills in applying diverse techniques to extract v
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/computer-vision-projects.git
+   git clone https://github.com/AlfredIsair/computer-vision-projects.git
